@@ -1,0 +1,8 @@
+syntax = "proto2";
+
+message Anchor {
+    required string uid = 1;
+    optional string nickname = 2;
+    optional int32 avatar = 3;
+    optional int32 gender = 4;
+}

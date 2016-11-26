@@ -1,0 +1,191 @@
+{
+    "config": {
+        "timeInterval": 30000
+    },
+    "games": [
+        {"name":"英雄联盟", "eName":"LOL", "iGameId": 1},
+        {"name":"炉石传说", "eName":"HOW", "iGameId": 2},
+        {"name": "DOTA2", "eName": "DOTA2", "iGameId": 3},
+        {"name": "守望先锋", "eName": "watch", "iGameId": 4},
+        {"name": "穿越火线", "eName": "CF", "iGameId": 5},
+        {"name": "星际争霸", "eName": "SC", "iGameId": 6},
+        {"name": "地下城与勇士", "eName": "dnf", "iGameId": 7},
+        {"name": "魔兽争霸3", "eName": "war3", "iGameId": 8},
+        {"name": "我的世界", "eName": "MC", "iGameId": 9},
+        {"name": "反恐精英", "eName": "cs", "iGameId": 10},
+        {"name": "Pokemon Go", "eName": "pokemongo", "iGameId": 11},
+        {"name": "三国杀", "eName": "sanguosha", "iGameId": 12},
+        {"name": "王者荣耀", "eName": "wzry", "iGameId": 13},
+        {"name": "魔兽世界", "eName": "WOW", "iGameId": 14},
+        {"name": "皇室战争", "eName": "hszz", "iGameId": 15},
+        {"name": "使命召唤OL", "eName": "codonline", "iGameId": 16},
+        {"name": "天涯明月刀", "eName": "tianya", "iGameId": 17},
+        {"name": "跑跑卡丁车", "eName": "popkart", "iGameId": 18},
+        {"name": "饥荒", "eName": "famine", "iGameId": 19},
+        {"name": "战舰世界", "eName": "worldofwarships", "iGameId": 20},
+        {"name": "坦克世界", "eName": "tksj", "iGameId": 21},
+        {"name": "传奇霸业", "eName": "cqby", "iGameId": 22}
+    ],
+    "sites": [
+        {
+            "iSiteId": 1,
+            "name": "斗鱼",
+            "eName": "douyu",
+            "url": "m.douyu.com",
+            "games": [
+                {"name": "英雄联盟", "eName": "lol", "iGameId": 1, "code": "1"},
+                {"name": "炉石传说", "eName": "how", "iGameId": 2, "code": "2"},
+                {"name": "Dota2", "eName": "dota2", "iGameId": 3, "code": "3"},
+                {"name": "守望先锋", "eName": "overwatch", "iGameId": 4, "code": "148"},
+                {"name": "穿越火线", "eName": "cf", "iGameId": 5, "code": "33"},
+                {"name": "星际争霸", "eName": "sc", "iGameId": 6, "code": "4"},
+                {"name": "地下城与勇士", "eName": "dnf", "iGameId": 7, "code": "40"},
+                {"name": "魔兽争霸", "eName": "mszb", "iGameId": 8, "code": "55"},
+                {"name": "我的世界", "eName": "mc", "iGameId": 9, "code": "44"},
+                {"name": "反恐精英", "eName": "cs", "iGameId": 10, "code": "66"},
+                {"name": "Pokemon Go", "eName": "pokemongo", "iGameId": 11, "code": "213"},
+                {"name": "三国杀", "eName": "sanguosha", "iGameId": 12, "code": "14"},
+                {"name": "王者荣耀", "eName": "wzry", "iGameId": 13, "code": "181"},
+                {"name": "魔兽世界", "eName": "wow", "iGameId": 14, "code": "5"},
+                {"name": "皇室战争", "eName": "hszz", "iGameId": 15, "code": "190"},
+                {"name": "使命召唤OL", "eName": "codonline", "iGameId": 16, "code": "11"},
+                {"name": "天涯明月刀", "eName": "tianya", "iGameId": 17, "code": "59"},
+                {"name": "跑跑卡丁车", "eName": "popkart", "iGameId": 18, "code": "90"},
+                {"name": "饥荒", "eName": "famine", "iGameId": 19, "code": "23"},
+                {"name": "战舰世界", "eName": "worldofwarships", "iGameId": 20, "code": "109"},
+                {"name": "坦克世界", "eName": "tksj", "iGameId": 21, "code": "142"},
+                {"name": "传奇霸业", "eName": "cqby", "iGameId": 22, "code": "218"}
+            ]
+        },
+        {
+            "iSiteId": 2,
+            "name": "战旗",
+            "eName": "zhanqi",
+            "url": "m.zhanqi.tv",
+            "games": [
+                {"name": "英雄联盟", "eName": "lol", "iGameId": 1, "code": "6"},
+                {"name": "炉石传说", "eName": "how", "iGameId": 2, "code": "9"},
+                {"name": "Dota2", "eName": "dota2", "iGameId": 3, "code": "10"},
+                {"name": "守望先锋", "eName": "watch", "iGameId": 4, "code": "82"},
+                {"name": "穿越火线", "eName": "cf", "iGameId": 5, "code": "120"},
+                {"name": "星际争霸", "eName": "sc", "iGameId": 6, "code": "5"},
+                {"name": "地下城与勇士", "eName": "dnf", "iGameId": 7, "code": "22"},
+                {"name": "魔兽争霸", "eName": "mszb", "iGameId": 8, "code": "18"},
+                {"name": "我的世界", "eName": "mc", "iGameId": 9, "code": "72"},
+                {"name": "反恐精英", "eName": "cs", "iGameId": 10, "code": "119"},
+                {"name": "三国杀", "eName": "sanguosha", "iGameId": 12, "code": "13"},
+                {"name": "王者荣耀", "eName": "wzry", "iGameId": 13, "code": "115"},
+                {"name": "魔兽世界", "eName": "wow", "iGameId": 14, "code": "8"},
+                {"name": "皇室战争", "eName": "hszz", "iGameId": 15, "code": "116"},
+                {"name": "天涯明月刀", "eName": "tianya", "iGameId": 17, "code": "74"},
+                {"name": "战舰世界", "eName": "worldofwarships", "iGameId": "0", "code": "81"},
+                {"name": "坦克世界", "eName": "tksj", "iGameId": 21, "code": "79"}
+            ]
+        },
+        {
+            "iSiteId": 3,
+            "name": "龙珠",
+            "eName": "longzhu",
+            "url": "http://www.longzhu.com/m/",
+            "games": [
+                {"name": "英雄联盟", "eName": "lol", "iGameId": 1, "code": "4"},
+                {"name": "炉石传说", "eName": "hs", "iGameId": 2, "code": "29"},
+                {"name": "Dota2", "eName": "dota2", "iGameId": 3, "code": "30"},
+                {"name": "守望先锋", "eName": "ow", "iGameId": 4, "code": "113"},
+                {"name": "穿越火线", "eName": "cf", "iGameId": 5, "code": "7"},
+                {"name": "星际争霸", "eName": "sc", "iGameId": 6, "code": "6"},
+                {"name": "地下城与勇士", "eName": "dnf", "iGameId": 7, "code": "5"},
+                {"name": "魔兽争霸", "eName": "mszb", "iGameId": 8, "code": "54"},
+                {"name": "我的世界", "eName": "mc", "iGameId": 9, "code": "97"},
+                {"name": "反恐精英", "eName": "cs", "iGameId": 10, "code": "187"},
+                {"name": "王者荣耀", "eName": "wzry", "iGameId": 13, "code": "103"},
+                {"name": "魔兽世界", "eName": "wow", "iGameId": 14, "code": "55"},
+                {"name": "皇室战争", "eName": "hszz", "iGameId": 15, "code": "146"},
+                {"name": "使命召唤OL", "eName": "codonline", "iGameId": 16, "code": "45"},
+                {"name": "天涯明月刀", "eName": "tianya", "iGameId": 17, "code": "49"},
+                {"name": "跑跑卡丁车", "eName": "popkart", "iGameId": 18, "code": "100"},
+                {"name": "饥荒", "eName": "famine", "iGameId": 19, "code": "136"}
+            ]
+        },
+        {
+            "iSiteId": 4,
+            "name": "虎牙",
+            "eName": "huya",
+            "url": "http://m.huya.com",
+            "games": [
+                {"name": "英雄联盟", "eName": "lol", "iGameId": 1, "code": "1"},
+                {"name": "炉石传说", "eName": "hearthstone", "iGameId": 2, "code": "393"},
+                {"name": "Dota2", "eName": "dota2", "iGameId": 3, "code": "7"},
+                {"name": "守望先锋", "eName": "overwatch", "iGameId": 4, "code": "2174"},
+                {"name": "穿越火线", "eName": "cf", "iGameId": 5, "code": "4"},
+                {"name": "星际争霸", "eName": "sc", "iGameId": 6, "code": "5"},
+                {"name": "地下城与勇士", "eName": "dnf", "iGameId": 7, "code": "2"},
+                {"name": "魔兽争霸", "eName": "mszb", "iGameId": 8, "code": "6"},
+                {"name": "我的世界", "eName": "mc", "iGameId": 9, "code": "1732"},
+                {"name": "反恐精英", "eName": "cs", "iGameId": "10", "code": "862"},
+                {"name": "三国杀", "eName": "sanguosha", "iGameId": 12, "code": "1669"},
+                {"name": "魔兽世界", "eName": "wow", "iGameId": 14, "code": "8"},
+                {"name": "使命召唤OL", "eName": "codonline", "iGameId": 16, "code": "969"},
+                {"name": "天涯明月刀", "eName": "tianya", "iGameId": 17, "code": "1219"},
+                {"name": "跑跑卡丁车", "eName": "popkart", "iGameId": 18, "code": "162"},
+                {"name": "饥荒", "eName": "famine", "iGameId": 19, "code": "74"},
+                {"name": "战舰世界", "eName": "worldofwarships", "iGameId": 20, "code": "1947"},
+                {"name": "坦克世界", "eName": "tksj", "iGameId": 21, "code": "802"}
+            ]
+        },
+        {
+            "iSiteId": 5,
+            "name": "熊猫",
+            "eName": "panda",
+            "url": "http://m.panda.tv",
+            "games": [
+                {"name": "英雄联盟", "eName": "lol", "iGameId": 1, "code": "lol"},
+                {"name": "炉石传说", "eName": "hearthstone", "iGameId": 2, "code": "hearthstone"},
+                {"name": "Dota2", "eName": "dota2", "iGameId": 3, "code": "dota2"},
+                {"name": "守望先锋", "eName": "overwatch", "iGameId": 4, "code": "overwatch"},
+                {"name": "穿越火线", "eName": "cf", "iGameId": 5, "code": "cf"},
+                {"name": "星际争霸", "eName": "starcraft", "iGameId": 6, "code": "starcraft"},
+                {"name": "地下城与勇士", "eName": "dnf", "iGameId": 7, "code": "dnf"},
+                {"name": "我的世界", "eName": "mc", "iGameId": 9, "code": "mc"},
+                {"name": "反恐精英", "eName": "csgo", "iGameId": 10, "code": "csgo"},
+                {"name": "Pokemon Go", "eName": "pokemongo", "iGameId": 11, "code": "pokemongo"},
+                {"name": "王者荣耀", "eName": "kingglory", "iGameId": 13, "code": "kingglory"},
+                {"name": "魔兽世界", "eName": "wow", "iGameId": 14, "code": "wow"},
+                {"name": "皇室战争", "eName": "clashroyale", "iGameId": 15, "code": "clashroyale"},
+                {"name": "使命召唤OL", "eName": "codol", "iGameId": 16, "code": "codol"},
+                {"name": "跑跑卡丁车", "eName": "popkart", "iGameId": 18, "code": "popkart"}
+            ]
+        },
+        {
+            "iSiteId": 6,
+            "name": "全民",
+            "eName": "quanmin",
+            "url": "http://m.quanmin.tv",
+            "games": [
+                {"name": "英雄联盟", "eName": "lol", "iGameId": 1, "code": "lol"},
+                {"name": "炉石传说", "eName": "heartstone", "iGameId": 2, "code": "heartstone"},
+                {"name": "Dota2", "eName": "dota2", "iGameId": 3, "code": "dota2"},
+                {"name": "守望先锋", "eName": "overwatch", "iGameId": 4, "code": "overwatch"},
+                {"name": "穿越火线", "eName": "cfpc", "iGameId": 5, "code": "cfpc"},
+                {"name": "地下城与勇士", "eName": "dnf", "iGameId": 7, "code": "dnf"},
+                {"name": "魔兽争霸", "eName": "war3", "iGameId": 8, "code": "war3"},
+                {"name": "我的世界", "eName": "minecraft", "iGameId": 9, "code": "minecraft"},
+                {"name": "王者荣耀", "eName": "wangzhe", "iGameId": 13, "code": "wangzhe"}
+            ]
+        },
+        {
+            "iSiteId": 7,
+            "name": "twitch",
+            "eName": "twitch",
+            "url": "http://www.twitch.tv",
+            "games": [
+                {"name": "英雄联盟", "eName": "lol", "iGameId": 1, "code": "League of Legends"},
+                {"name": "炉石传说", "eName": "heartstone", "iGameId": 2, "code": "Hearthstone: Heroes of Warcraft"},
+                {"name": "Dota2", "eName": "dota2", "iGameId": 3, "code": "Dota 2"},
+                {"name": "守望先锋", "eName": "overwatch", "iGameId": 4, "code": "Overwatch"},
+                {"name": "魔兽世界", "eName": "wow", "iGameId": 14, "code": "World of Warcraft"},
+                {"name": "反恐精英", "eName": "cs", "iGameId": 10, "code": "Counter-Strike: Global Offensive"}
+            ]
+        }
+    ]
+}
